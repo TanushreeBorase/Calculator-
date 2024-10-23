@@ -17,3 +17,6 @@ Equals Sign (=): Performs the selected operation and displays the result in the 
 Delete: Removes one character at a time from the input.
 Reset: Clears the entire text field (functions as "All Clear").
 Error Handling: Displays "Error occurred" for division by zero, or shows "Infinity" if applicable.
+
+![calculator](https://github.com/user-attachments/assets/12341a2a-44bb-4976-9d46-009b786d4117)
+
