@@ -6,9 +6,13 @@ Digit Buttons: Includes buttons for digits 0-9.
 
 # Basic Arithmetic Operations:
 Addition (+)
+
 Subtraction (-)
+
 Multiplication (*)
+
 Division (/)
+
 nth Root Calculation (root)
 
 # Additional Functionality:
