@@ -18,8 +18,11 @@ nth Root Calculation (root)
 # Additional Functionality:
 
 Equals Sign (=): Performs the selected operation and displays the result in the text field.
+
 Delete: Removes one character at a time from the input.
+
 Reset: Clears the entire text field (functions as "All Clear").
+
 Error Handling: Displays "Error occurred" for division by zero, or shows "Infinity" if applicable.
 
 # demo
